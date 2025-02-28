@@ -1,0 +1,26 @@
+all_data importance list:
+                         Importance
+Features                           
+Init_Win_bytes_forward     0.061494
+Init_Win_bytes_backward    0.044521
+Fwd Packet Length Max      0.041572
+Bwd Packet Length Std      0.032616
+Bwd Header Length          0.025558
+Min Packet Length          0.017830
+Fwd Packet Length Std      0.017545
+Average Packet Size        0.016500
+Fwd IAT Min                0.015423
+Flow IAT Mean              0.015067
+Flow IAT Max               0.013958
+Flow IAT Min               0.013127
+Packet Length Mean         0.012820
+Flow Duration              0.012051
+Bwd Packets/s              0.011286
+act_data_pkt_fwd           0.010686
+Bwd IAT Max                0.010555
+Fwd Packet Length Mean     0.010355
+Subflow Fwd Bytes          0.010341
+Avg Fwd Segment Size       0.010255
+
+
+all_data=["Init_Win_bytes_forward","Init_Win_bytes_backward","Fwd Packet Length Max","Bwd Packet Length Std","Bwd Header Length"]
